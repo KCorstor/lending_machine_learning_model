@@ -25,7 +25,7 @@
 
 * For machine Learning Model one, our 'negative' results were predicted 100% correctly for precision, recall, and f1. Our positive results were .88 for precision, .89 for recall, and .88 for f1. 
 
-* When we refit our model we lost 1bp for precision, but were able to raise recall to 100%, and f1 to .93 percent. Overall the model fit better and gave us better results
+* When we refit our model we lost 1bp for precision, but were able to raise recall to 100, and f1 to .93. Overall the model fit better and gave us better results
 
 
 ## Summary
